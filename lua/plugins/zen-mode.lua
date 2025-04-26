@@ -6,9 +6,9 @@ return {
 				minimalist = {
 					ignored_buf_types = { "nofile" },
 					options = {
-						-- number = false,
-						-- relativenumber = false,
-						-- showtabline = 0,
+						 number = false,
+						 relativenumber = false,
+						 showtabline = 1,
 						-- signcolumn = "no",
 						-- statusline = "",
 						-- cmdheight = 1,

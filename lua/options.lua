@@ -111,7 +111,6 @@ vim.opt.shiftwidth = 4
 
 vim.opt.hlsearch = false
 vim.opt.wrap = true
-vim.opt.textwidth = 80
 
 vim.opt.linebreak = true
 
